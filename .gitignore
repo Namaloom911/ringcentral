@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.xlsx
+*.log
+rpt/
+venv/
+.idea/
+.DS_Store
+test.py
+shorter.py
