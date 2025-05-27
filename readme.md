@@ -1,5 +1,3 @@
-Here's a complete `README.md` for your RingCentral Deleted Messages Extractor Python project:
-
 ````markdown
 # RingCentral Deleted Messages Extractor
 
@@ -94,8 +92,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions or support, please contact \[[ghanam4474@gmail.com](mailto:your-ghanam4474@gmail.com)].
-
-```
-
-Would you like me to generate this as a file you can download?
-```
